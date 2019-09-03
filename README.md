@@ -1,4 +1,4 @@
-# Backend 
+# Backend JWT, SQL integration and encryption of important data.
 
 
 ## Tools used
@@ -21,3 +21,5 @@ To change password, the user must send the confirmation field with the new passw
 
 - Encrypts user password for security in Database.
 - - Perform input data validation;
+
+#### Just learning a bit each day :D
