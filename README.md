@@ -1,5 +1,3 @@
-# Backend JWT, SQL integration and encryption of important data.
-
 
 ## Tools used
 
